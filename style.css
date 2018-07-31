@@ -1,0 +1,14 @@
+.title {
+    color: blue;
+    font-size: 30px;
+    margin: 0 auto;
+}
+.box{
+    margin: 2 auto;
+    padding: 1px;
+}
+.button{
+    margin: 3 auto;
+    padding: 2px;
+    color: gray;
+}
